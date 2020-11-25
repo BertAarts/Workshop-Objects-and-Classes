@@ -1,0 +1,13 @@
+C:\Users\884409\source\repos\Fontys\Fontys\bin\Debug\netcoreapp3.1\Fontys.exe
+C:\Users\884409\source\repos\Fontys\Fontys\bin\Debug\netcoreapp3.1\Fontys.deps.json
+C:\Users\884409\source\repos\Fontys\Fontys\bin\Debug\netcoreapp3.1\Fontys.runtimeconfig.json
+C:\Users\884409\source\repos\Fontys\Fontys\bin\Debug\netcoreapp3.1\Fontys.runtimeconfig.dev.json
+C:\Users\884409\source\repos\Fontys\Fontys\bin\Debug\netcoreapp3.1\Fontys.dll
+C:\Users\884409\source\repos\Fontys\Fontys\bin\Debug\netcoreapp3.1\Fontys.pdb
+C:\Users\884409\source\repos\Fontys\Fontys\obj\Debug\netcoreapp3.1\Fontys.csprojAssemblyReference.cache
+C:\Users\884409\source\repos\Fontys\Fontys\obj\Debug\netcoreapp3.1\Fontys.AssemblyInfoInputs.cache
+C:\Users\884409\source\repos\Fontys\Fontys\obj\Debug\netcoreapp3.1\Fontys.AssemblyInfo.cs
+C:\Users\884409\source\repos\Fontys\Fontys\obj\Debug\netcoreapp3.1\Fontys.csproj.CoreCompileInputs.cache
+C:\Users\884409\source\repos\Fontys\Fontys\obj\Debug\netcoreapp3.1\Fontys.dll
+C:\Users\884409\source\repos\Fontys\Fontys\obj\Debug\netcoreapp3.1\Fontys.pdb
+C:\Users\884409\source\repos\Fontys\Fontys\obj\Debug\netcoreapp3.1\Fontys.genruntimeconfig.cache
